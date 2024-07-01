@@ -7,8 +7,7 @@ Fetch Data from the Giphy API  in React
 
 
 ## Features
-
-- Display GIF image from Giphy API
+- When renders, the App make a request to the Giphy API and display a set of gifs. Here axios is used to fetch the GIF data.
 - search image by keyword
 
 
